@@ -58,6 +58,9 @@ cd ../../SpliceFinder_sourcecode/test/
 python test_Cla.py
 ```
 
+## Cite us
+Welcome to cite our paper.
+Wang R, Wang Z, Wang J, et al. SpliceFinder: ab initio prediction of splice sites using convolutional neural network[J]. BMC bioinformatics, 2019, 20(23): 1-13.
 
 
 
